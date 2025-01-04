@@ -1,2 +1,3 @@
 # OTUS-C-2024-12-DmitryShalgachov
-C programming language training @Otus
+Домашние задания курса OTUS "Программист C"
+Группа C-2024-12
