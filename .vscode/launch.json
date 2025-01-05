@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Dymon/GitProjects/OTUS-C-2024-12-Dmitry_Shalgachov/HW01",
+//      "program": "c:/Users/Dymon/GitProjects/OTUS-C-2024-12-Dmitry_Shalgachov/HW01/build/Debug/outDebug",
+      "program": "C:/MinGW/bin/gcc",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
